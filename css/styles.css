@@ -106,4 +106,9 @@ p.error {
 .mb0{
   margin-bottom: 0 !important;
 }
-
+.test{
+  position: fixed;
+    left: 345px;
+    text-decoration: underline;
+    font-style: italic;
+}
